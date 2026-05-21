@@ -84,4 +84,4 @@ com.darkwhiskers.poker
 
 | Realizado por **Miguel Silva C.** \
 | GitHub: [github.com/darkwhiskers] *( https://github.com/darkwhiskers )* \
-| Licencia: *CC BY-NC-ND 4.0*
+| Licencia: © darkwhiskers.org — *Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)*
