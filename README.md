@@ -72,12 +72,12 @@ com.darkswhiskers.poker
 
 2. **Compilar desde la raíz del proyecto:**
    ```bash
-   javac animales/*.java vehiculos/*.java figuras/*.java banco/*.java rpg/*.java Principal.java
+   javac -d . $(find src -name "*.java")
    ```
 
 3. **Ejecutar:**
    ```bash
-   java Main
+   java com.darkwhiskers.poker.Main
    ```
 
 ---
