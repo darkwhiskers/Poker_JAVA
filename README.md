@@ -47,7 +47,7 @@ Esta fase inicial se centra en representar correctamente una baraja de cartas es
 ## 🧱 Estructura del Proyecto
 
 ```text
-com.darkswhiskers.poker
+com.darkwhiskers.poker
 │
 ├── baraja
 ├── cartas
